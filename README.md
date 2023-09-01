@@ -21,5 +21,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/AntonTuritsyn/Weather/blob/master/Screenshot_20230823_191059.png" width=30% height=30%>
+Старый&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Новый
 
+
+<img src="https://github.com/AntonTuritsyn/Weather/blob/master/Screenshot_20230823_191059.png" width=30% height=30%>&emsp;&emsp;<img src="https://github.com/AntonTuritsyn/Weather/blob/master/Screenshot_20230901_190914.png" width=30% height=30%>
