@@ -2,7 +2,6 @@ package com.turitsynanton.android.weather.url
 
 import com.turitsynanton.android.weather.api.ForecastDay
 import com.turitsynanton.android.weather.api.WeatherApi
-import com.turitsynanton.android.weather.url.WeatherInterceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
